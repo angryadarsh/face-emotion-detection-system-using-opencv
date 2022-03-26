@@ -1,2 +1,3 @@
-# face-emotion-detection-system-using-opencv
-face emotion system 
+# Emotion_Detection_CNN
+
+Data Set Link - https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset
